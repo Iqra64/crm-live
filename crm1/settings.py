@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-+1s8&r_yxy352l^yg=%xwhlw+nynhh89i7y4@rkg1bn_)=j6ny
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['iqra-crm.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['crmbyiq.herokuapp.com','127.0.0.1']
 
 
 
